@@ -3,7 +3,8 @@
 The goal of this project is to build and train a classical Machine Learning model using Scikit-learn to predict the housing price of housings in Boston, Massachussets and give an evaluation on the overall performance of the model as well as providing insights about the Boston housing.
 
 ## DATASET
-The dataset can be accessed here: https://raw.githubusercontent.com/anhquan0412/boston_housing/master/housing.csv
+The dataset can be accessed here: https://raw.githubusercontent.com/anhquan0412/boston_housing/master/housing.csv.
+
 The Boston housing data was collected in 1978 and consists of 506 entries, each of which represents information about 14 features for homes from suburbs areas in Boston. Data preprocessing has been applied to this dataset, which includes:
   - 16 data points have an 'MEDV' value of 50.0. These data points likely contain missing or censored values and have been removed.
   - 1 data point has an 'RM' value of 8.78. This data point can be considered an outlier and has been removed.
