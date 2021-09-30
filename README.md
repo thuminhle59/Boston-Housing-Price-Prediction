@@ -1,6 +1,5 @@
 # BOSTON HOUSING PRICE PREDICTION
 
-## DESCRIPTION
 The goal of this project is to build and train a classical Machine Learning model using Scikit-learn to predict the housing price of housings in Boston, Massachussets and give an evaluation on the overall performance of the model as well as providing insights about the Boston housing.
 
 ## DATASET
